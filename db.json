@@ -1,0 +1,41 @@
+{
+  "receipt": [
+    {
+      "userName": "김지원",
+      "gender": "female",
+      "birth": "1965-01-01",
+      "address": "서울시 강서구 화곡동 846-14 304호",
+      "mobile": "010-1234-5678",
+      "agreement": "agree",
+      "id": "cc72"
+    },
+    {
+      "userName": "이지원",
+      "gender": "female",
+      "birth": "1965-01-01",
+      "address": "서울시 강서구 화곡동 846-14 401호",
+      "mobile": "010-4321-5678",
+      "agreement": "agree",
+      "id": "3369"
+    },
+    {
+      "id": "b3a2",
+      "userName": "이름",
+      "gender": "female",
+      "birth": "1997-02-01",
+      "fullAddress": "제주특별자치도 제주시 첨단로 242 1층",
+      "mobile": "010-2344-3333",
+      "agreement": "agree"
+    }
+  ],
+  "myReceipt" : [
+    {
+      "userName": "김지원",
+      "gender": "female",
+      "birth": "1965-01-01",
+      "mobile": "010-1234-5678",
+      "jobId": "1234567890",
+      "status": "inProcess"
+    }
+  ]
+}

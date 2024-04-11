@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "구인 신청",
+      "url": "/offers",
+      "bizYn": "Y"
+    },
+    {
+      "name": "전국수행기관",
+      "url": "/organization",
+      "bizYn": "N"
+    },
+    {
+      "name": "나의 접수내역",
+      "url": "/myReceipt",
+      "bizYn": "N"
+    },
+    {
+      "name": "합격자 선정",
+      "url": "/applicant",
+      "bizYn": "Y"
+    }
+  ]
+}

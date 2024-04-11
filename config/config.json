@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "노인일자리 여기",
+    "base_url": "/about",
+    "favicon": "/images/img_favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "44",
+    "logo_text": "Bookworm Light"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "copyright": "Copyright © [PSNS](https://github.com/U-PSNS/psns-next)"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Next Boilerplate"
+  }
+}
